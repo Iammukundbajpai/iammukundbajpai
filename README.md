@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mukund Bajpai</h1>
 <h3 align="center">A Software Developer with Strong Problem Solving Skills !!</h3>
 
-<img align="right" alt="coding" width="400 src="https://user-images.githubusercontent.com/103874320/190897634-9dcd0991-8d76-4443-9f56-9da8a835327c.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/103874320/190897634-9dcd0991-8d76-4443-9f56-9da8a835327c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iammukundbajpai&label=Profile%20views&color=0e75b6&style=flat" alt="iammukundbajpai" /> </p>
 
