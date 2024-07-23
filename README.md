@@ -8,7 +8,7 @@
 - 📫 How to reach me **mknd.bajpai@gmail.com**
 - 📫 Check out My Projects **https://github.com/Iammukundbajpai?tab=repositories**
 
-- 📄 RESUME [https://drive.google.com/file/d/1wcL7mHNLBZP4pu6dNywkJ742ytyFcWi5/view?usp=sharing](https://drive.google.com/file/d/1wcL7mHNLBZP4pu6dNywkJ742ytyFcWi5/view?usp=sharing)
+- 📄 RESUME [Click Here](https://drive.google.com/file/d/1DwGcOVHuyVw9CLpT5fZuKyte2yW9qPKk/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
